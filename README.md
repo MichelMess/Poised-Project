@@ -1,4 +1,3 @@
-# Capstone-Project-4
 ## Poised Project
 ## Project Details:
 ### Description
